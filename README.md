@@ -87,7 +87,7 @@ Trailblazer - Destruction path (Female) - 8002
 Trailblazer - Preservation path (Male) (2) - 8003
 Trailblazer - Preservation path (Female) (2) - 8004
 
-#level avatar <avatarID> <level>
+#level avatar *<avatarID>* *<level>*
 
 #item give <itemId> nếu bạn muốn một mặt hàng cụ thể.
 #Item give <id> x<count> chỉ định số lượng mục bạn muốn.
