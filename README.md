@@ -93,3 +93,70 @@ Trailblazer - Preservation path (Female) (2) - 8004
 #Item clear xóa hết trong kho đồ
 
 github id item: https://github.com/Dimbreath/StarRailData/blob/master/ExcelOutput/ItemConfig.json
+
+#scene id ( floorid )
+```
+Parlor Car - 10000 DEAD
+Master Control Zone - 10001  
+Administrative District - 10101 
+Boulder Town - 10102 
+Central Starskiff Haven - 10201 
+Base Zone - 20001 
+Storage Zone - 20002 same as Base zone
+Supply Zone - 20003 same as Base zone
+Path Space - 20100 DEAD
+Outlying Snow Plains - 20101 (Use the Calyx to fight monsters)
+Backwater Pass - 20111 
+Great Mine - 20121 
+Rivet Town - 20122 
+Robot Settlement - 20123
+Silvermane Guard Restricted Zone - 20131
+Corridor of Fading Echoes - 20132
+Everwinter Hill - 20133 DEAD 
+Everwinter Hill - 20134
+Cloudford - 20211
+Stargazer Navalia - 20212
+Cloudford - 20213 DEAD
+Parlor Car - 20214 DEAD
+853985869 - 30101 DEAD
+853985868 - 30102 DEAD
+853985867 - 30103 DEAD
+853985866 - 30104 DEAD
+853985865 - 30105 DEAD
+2016785284 - 30120 DEAD
+Cavern of Corrosion - 30201 DEAD
+853985803 - 30301 DEAD
+Storage Zone - 40002 DEAD
+Supply zone - 40003 DEAD
+Corridor of Fading Echoes - 40101 DEAD
+Great Mine - 40121 DEAD
+Silvermane Guard Restricted Zone - 40131 DEAD
+Cloudford - 40211 DEAD
+-732304349 - 41000 DEAD / name is Robot Settlement
+Robot Settlement - 41007 DEAD
+Cloudford - 41008 DEAD
+Great Mine - 41009 DEAD
+Corridor of Fading Echoes - 41010 DEAD
+Silvermane Guard Restricted Zone - 41011 DEAD
+Cloudford - 41012 DEAD
+Rivet Town - 41122 DEAD
+Robot Settlement - 41123 DEAD
+Silvermane Guard Restricted Zone - 41131 DEAD
+Corridor of Fading Echoes - 41132 DEAD
+Cloudford - 41211 DEAD
+Stargazer Navalia - 41212 DEAD
+??? - 80000 DEAD
+Simulated Universe - 80001 DEAD
+Herta's Office - 80112
+Simulated Universe - 81001 DEAD
+Simulated Universe - 81002 DEAD
+Simulated Universe - 81003 DEAD
+Simulated Universe - 81111 DEAD
+Simulated Universe - 81121 DEAD
+Simulated Universe - 81122 DEAD
+Simulated Universe - 81123 DEAD
+Simulated Universe - 81131 DEAD
+Simulated Universe - 81132 DEAD
+Simulated Universe - 81211 DEAD
+Simulated Universe - 81212 DEAD
+```
