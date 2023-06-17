@@ -51,7 +51,7 @@ step 5: chơi thôi
 
 step 6: các lệnh demo
 
-#avatar%20giveall
+#avatar giveall
 thay số 20 thành uid của mày
 
 March 7th - 1001
